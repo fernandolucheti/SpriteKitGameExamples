@@ -21,7 +21,6 @@
 		8B25E7FB1AF7A87B00054C21 /* player@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E7F51AF7A87B00054C21 /* player@2x.png */; };
 		8B25E7FC1AF7A87B00054C21 /* projectile.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E7F61AF7A87B00054C21 /* projectile.png */; };
 		8B25E7FD1AF7A87B00054C21 /* projectile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E7F71AF7A87B00054C21 /* projectile@2x.png */; };
-		8B25E7FF1AF7AC5800054C21 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E7FE1AF7AC5800054C21 /* Media.xcassets */; };
 		8B25E8021AF7AC6000054C21 /* background-music-aac.caf in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E8001AF7AC6000054C21 /* background-music-aac.caf */; };
 		8B25E8031AF7AC6000054C21 /* pew-pew-lei.caf in Resources */ = {isa = PBXBuildFile; fileRef = 8B25E8011AF7AC6000054C21 /* pew-pew-lei.caf */; };
 		8B25E8051AF7ADB200054C21 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B25E8041AF7ADB200054C21 /* GameOverScene.swift */; };
@@ -56,7 +55,6 @@
 		8B25E7F51AF7A87B00054C21 /* player@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "player@2x.png"; path = "SpriteKitSimpleGameResources/sprites.atlas/player@2x.png"; sourceTree = "<group>"; };
 		8B25E7F61AF7A87B00054C21 /* projectile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = projectile.png; path = SpriteKitSimpleGameResources/sprites.atlas/projectile.png; sourceTree = "<group>"; };
 		8B25E7F71AF7A87B00054C21 /* projectile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "projectile@2x.png"; path = "SpriteKitSimpleGameResources/sprites.atlas/projectile@2x.png"; sourceTree = "<group>"; };
-		8B25E7FE1AF7AC5800054C21 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		8B25E8001AF7AC6000054C21 /* background-music-aac.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "background-music-aac.caf"; path = "SpriteKitSimpleGameResources/Sounds/background-music-aac.caf"; sourceTree = "<group>"; };
 		8B25E8011AF7AC6000054C21 /* pew-pew-lei.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "pew-pew-lei.caf"; path = "SpriteKitSimpleGameResources/Sounds/pew-pew-lei.caf"; sourceTree = "<group>"; };
 		8B25E8041AF7ADB200054C21 /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 				8B25E8041AF7ADB200054C21 /* GameOverScene.swift */,
 				8B25E7D21AF7A54300054C21 /* GameViewController.swift */,
 				8B25E7D41AF7A54300054C21 /* Main.storyboard */,
-				8B25E7FE1AF7AC5800054C21 /* Media.xcassets */,
 				8B25E8001AF7AC6000054C21 /* background-music-aac.caf */,
 				8B25E8011AF7AC6000054C21 /* pew-pew-lei.caf */,
 				8B25E7D71AF7A54300054C21 /* Images.xcassets */,
@@ -233,7 +230,6 @@
 				8B25E7F91AF7A87B00054C21 /* monster@2x.png in Resources */,
 				8B25E7D81AF7A54300054C21 /* Images.xcassets in Resources */,
 				8B25E7FC1AF7A87B00054C21 /* projectile.png in Resources */,
-				8B25E7FF1AF7AC5800054C21 /* Media.xcassets in Resources */,
 				8B25E7F11AF7A84A00054C21 /* SpriteKitSimpleGameResources in Resources */,
 				8B25E7F81AF7A87B00054C21 /* monster.png in Resources */,
 				8B25E8031AF7AC6000054C21 /* pew-pew-lei.caf in Resources */,
